@@ -17,4 +17,4 @@ Stages: <br/>
 	10. Presentation<br/>
 
 
-![ML_Steps](Images/mlsteps.png)
+![ML_Steps](images/mlsteps.png)
