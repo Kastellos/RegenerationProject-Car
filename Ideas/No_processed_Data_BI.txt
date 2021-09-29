@@ -1,0 +1,5 @@
+Ideas:
+1. Types of Variables
+2. All significant statistical values (Mean, Std, Variance, Median...)
+3. Count of all data (rows) and count without the N/A values
+4. Connections between the features and especially features with the MPG attribute
